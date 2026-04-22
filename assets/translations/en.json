@@ -1,0 +1,36 @@
+{
+  "Auth" : {
+    "Welcome to" : "Welcome to",
+    "Login" : "Login",
+    "Register" : "Register",
+    "email" : "email",
+    "password" : "password",
+    "Do not have an account yet" : "Do not have an account yet",
+    "username" : "username",
+    "Full Name" : "Full Name",
+    "Confirm Password" : "Confirm Password",
+    "Already have an account" : "Already have an account",
+    "It is great to see you again" : "It is great to see you again",
+    "Lets create your account" : "Let's create your account",
+    "Login account" : "Login account",
+    "Create account" : "Create account"
+  },
+  "Home" : {
+    "welcome" : "welcome",
+    "description" : "description"
+  },
+  "Cart":{
+    "Finalize Purchase": "Finalize Purchase"
+  },
+  "Search":{
+    "Start searching for products":"Finalize Purchase",
+    "Search For Anything": "Search For Anything"
+  },
+  "Product":{
+      "Details":"Details",
+      "Added To Cart Successfully": "Added To Cart Successfully",
+      "Add To Cart":"Add To Cart"
+
+  }
+
+}

@@ -1,0 +1,37 @@
+ {
+  "Auth" : {
+    "Welcome to" : "مرحبًا بك في",
+    "Login" : "تسجيل الدخول",
+    "Register" : "إنشاء حساب",
+    "email" : "البريد الإلكتروني",
+    "password" : "كلمة المرور",
+    "Do not have an account yet" : "ليس لديك حساب بعد",
+    "username" : "اسم المستخدم",
+    "Full Name" : "الاسم الكامل",
+    "Confirm Password" : "تأكيد كلمة المرور",
+    "Already have an account" : "لديك حساب بالفعل",
+    "It is great to see you again" : "من الرائع رؤيتك مرة أخرى",
+    "Lets create your account" : "دعنا ننشئ حسابك",
+    "Login account" : "تسجيل الدخول إلى الحساب",
+    "Create account" : "إنشاء حساب"
+  },
+  "Home" : {
+    "welcome" : "مرحبًا بك في تطبيقنا",
+    "description" : "هذا هو التطبيق الذي يساعدك على إدارة مهامك اليومية"
+  },
+  "Cart":{
+    "Finalize Purchase": "اتمام الشراء"
+  },
+  "Search":{
+    "Start searching for products":"ابدأ بالبحث عن المنتجات",
+    "Search For Anything":"ابحث عن أي شئ"
+
+  },
+  "Product":{
+      "Details":"التفاصيل",
+      "Added To Cart Successfully":"تمت الاضافة بنجاح",
+      "Add To Cart":"أضف للعربة"
+
+  }
+
+}
